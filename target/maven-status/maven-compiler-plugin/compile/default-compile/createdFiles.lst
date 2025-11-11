@@ -1,0 +1,6 @@
+ru\skoblenkov\devicecontrol\utils\FxUtils.class
+ru\skoblenkov\devicecontrol\service\DatabaseService.class
+ru\skoblenkov\devicecontrol\service\UsbDeviceService.class
+ru\skoblenkov\devicecontrol\model\DeviceData.class
+ru\skoblenkov\devicecontrol\controller\MainController.class
+ru\skoblenkov\devicecontrol\MainApp.class
